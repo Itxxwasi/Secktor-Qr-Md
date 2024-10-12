@@ -12,13 +12,13 @@
   "license": "ISC",
   "engines": {
     "node": "20.x",
-    "npm": "10.8.2"
+    "npm": "10.9.0"
   },
   "dependencies": {
     "@adiwajshing/baileys": "github:whiskeySockets/Baileys",
-    "@adiwajshing/keyed-db": "^0.2.10",
+    "@adiwajshing/keyed-db": "latest",
     "axios": "^1.2.3",
-    "canvas": "^2.11.2",
+    "canvas": "latest",
     "chalk": "^5.5.0",
     "child_process": "^1.0.2",
     "cluster": "0.7.8",
