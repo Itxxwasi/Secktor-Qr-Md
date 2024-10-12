@@ -30,6 +30,7 @@
     "node-cron": "latest",
     "node-fetch": "latest",
     "path": "latest",
+    "pastebin-js": "latest",
     "pino": "latest",
     "pm2": "latest",
     "puppeteer": "latest",
